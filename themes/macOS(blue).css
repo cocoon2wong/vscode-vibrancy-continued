@@ -1,0 +1,65 @@
+.editor-container {
+  background: transparent !important;
+}
+
+.search-view .search-widget .input-box,
+.search-view .search-widget .input-box .monaco-inputbox,
+.monaco-workbench .part.editor>.content>.one-editor-silo>.container>.title .tabs-container>.tab,
+.monaco-workbench .part>.content,
+.monaco-workbench .editor>.content>.one-editor-silo.editor-one,
+.monaco-workbench .part.editor>.content>.one-editor-silo>.container>.title,
+.monaco-workbench .part>.title,
+.monaco-workbench,
+body {
+  background: transparent !important;
+}
+
+.extension-editor,
+.monaco-workbench .part.editor>.content>.one-editor-silo>.container>.title .tabs-container>.tab.active,
+.preferences-editor>.preferences-header,
+.preferences-editor>.preferences-editors-container.side-by-side-preferences-editor .preferences-header-container,
+.monaco-editor,
+.monaco-editor .inputarea.ime-input,
+.monaco-list .monaco-list-rows {
+  background: transparent !important;
+}
+
+
+/* 透明度区域 */
+.activitybar {
+  background-color: #e0e0e320 !important;
+}
+
+.monaco-workbench .part.sidebar {
+  background-color: #e0e0e320 !important;
+}
+
+.monaco-workbench.fullscreen {
+  background-color: #e0e0e320 !important;
+}
+
+
+/* 通知窗口 */
+.notification-toast,
+.notifications-list-container,
+.notifications-list-container .monaco-list-row {
+  border-radius: 8px !important;
+}
+
+.monaco-button {
+  border-radius: 4px !important;
+}
+
+.notifications-list-container .monaco-list-row {
+  padding: 1px;
+}
+
+
+/* 命令面板 */
+.quick-input-widget {
+  background-color: rgba(246, 246, 246, 0.95) !important;
+  padding: 4px 6px !important;
+  border-radius: 10px !important;
+  top: 50% !important;
+  transform: translate(0%, -50%) !important;
+}

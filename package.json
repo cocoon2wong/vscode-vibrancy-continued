@@ -36,6 +36,13 @@
   ],
   "main": "./extension/index.js",
   "contributes": {
+    "themes": [
+      {
+        "label": "macOS(blue)",
+        "uiTheme": "vs",
+        "path": "./themes/macOS(blue)-color-theme.json"
+      }
+    ],
     "commands": [
       {
         "command": "extension.installVibrancy",
