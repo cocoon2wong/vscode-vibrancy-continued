@@ -38,7 +38,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "macOS(blue)",
+        "label": "macOS Blue (Light)",
         "uiTheme": "vs",
         "path": "./themes/macOS(blue)-color-theme.json"
       }
@@ -111,7 +111,8 @@
             "Tokyo Night Storm (Outer)",
             "Noir et blanc",
             "Dark (Exclude Tab Line)",
-            "Solarized Dark+"
+            "Solarized Dark+",
+            "macOS Blue (Light)"
           ]
         },
         "vscode_vibrancy.imports": {

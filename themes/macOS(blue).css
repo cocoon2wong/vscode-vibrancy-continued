@@ -2,8 +2,6 @@
   background: transparent !important;
 }
 
-.search-view .search-widget .input-box,
-.search-view .search-widget .input-box .monaco-inputbox,
 .monaco-workbench .part.editor>.content>.one-editor-silo>.container>.title .tabs-container>.tab,
 .monaco-workbench .part>.content,
 .monaco-workbench .editor>.content>.one-editor-silo.editor-one,
@@ -14,12 +12,6 @@ body {
   background: transparent !important;
 }
 
-.extension-editor,
-.monaco-workbench .part.editor>.content>.one-editor-silo>.container>.title .tabs-container>.tab.active,
-.preferences-editor>.preferences-header,
-.preferences-editor>.preferences-editors-container.side-by-side-preferences-editor .preferences-header-container,
-.monaco-editor,
-.monaco-editor .inputarea.ime-input,
 .monaco-list .monaco-list-rows {
   background: transparent !important;
 }
