@@ -1,0 +1,47 @@
+.monaco-workbench .part>.title,
+.monaco-workbench,
+body {
+  background: transparent !important;
+}
+
+.monaco-list .monaco-list-rows {
+  background: transparent !important;
+}
+
+.activitybar {
+  background-color: transparent !important;
+}
+
+.monaco-workbench .part.sidebar {
+  background-color: transparent !important;
+}
+
+.monaco-workbench.fullscreen {
+  background-color: transparent !important;
+}
+
+
+/* 通知窗口 */
+.notification-toast,
+.notifications-list-container,
+.notifications-list-container .monaco-list-row {
+  border-radius: 8px !important;
+}
+
+.monaco-button {
+  border-radius: 4px !important;
+}
+
+.notifications-list-container .monaco-list-row {
+  padding: 1px;
+}
+
+
+/* 命令面板 */
+.quick-input-widget {
+  background-color: rgb(246, 246, 246) !important;
+  padding: 4px 6px !important;
+  border-radius: 10px !important;
+  top: 40% !important;
+  transform: translate(0%, -60%) !important;
+}

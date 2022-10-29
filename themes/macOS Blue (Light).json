@@ -3,10 +3,10 @@
     "win10": "acrylic",
     "macos": "medium-light"
   },
-  "background": "f4f5f7",
+  "background": "ffffff",
   "opacity": {
-    "win10": 0.8,
-    "macos": 0.4
+    "win10": 0.3,
+    "macos": 0.3
   },
   "colorTheme": "macOS Blue (Light)"
 }

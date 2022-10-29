@@ -40,7 +40,12 @@
       {
         "label": "macOS Blue (Light)",
         "uiTheme": "vs",
-        "path": "./themes/macOS(blue)-color-theme.json"
+        "path": "./themes/macOS Blue (Light)-color-theme.json"
+      },
+      {
+        "label": "macOS Blue (Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/macOS Blue (Dark)-color-theme.json"
       }
     ],
     "commands": [
@@ -112,7 +117,8 @@
             "Noir et blanc",
             "Dark (Exclude Tab Line)",
             "Solarized Dark+",
-            "macOS Blue (Light)"
+            "macOS Blue (Light)",
+            "macOS Blue (Dark)"
           ]
         },
         "vscode_vibrancy.imports": {

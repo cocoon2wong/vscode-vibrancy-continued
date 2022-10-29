@@ -24,7 +24,8 @@ var themeStylePaths = {
 	'Tokyo Night Storm (Outer)': '../themes/Tokyo Night Storm (Outer).css',
 	'Noir et blanc': '../themes/Noir et blanc.css',
 	'Solarized Dark+': '../themes/Solarized Dark+.css',
-	'macOS Blue (Light)': '../themes/macOS(blue).css',
+	'macOS Blue (Light)': '../themes/macOS Blue (Light).css',
+	'macOS Blue (Dark)': '../themes/macOS Blue (Dark).css',
 }
 
 const themeConfigPaths = {
@@ -37,7 +38,8 @@ const themeConfigPaths = {
 	'Tokyo Night Storm (Outer)': '../themes/Tokyo Night Storm (Outer).json',
 	'Noir et blanc': '../themes/Noir et blanc.json',
 	'Solarized Dark+': '../themes/Solarized Dark+.json',
-	'macOS Blue (Light)': '../themes/macOS(blue).json',
+	'macOS Blue (Light)': '../themes/macOS Blue (Light).json',
+	'macOS Blue (Dark)': '../themes/macOS Blue (Dark).json',
 }
 
 var defaultTheme = 'Default Dark';
